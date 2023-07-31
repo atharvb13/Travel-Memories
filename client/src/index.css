@@ -1,0 +1,16 @@
+
+@media screen and (min-width: 800px){
+    body {
+        background-image: url("./images/bg1.png");
+        background-size: cover; 
+}
+}
+
+body {
+    background-color: tan;
+  }
+
+* {
+    /* font-family: 'Noto Sans JP' !important; */
+    font-family: 'Heebo', sans-serif !important;
+}
